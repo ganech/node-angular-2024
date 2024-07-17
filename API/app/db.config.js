@@ -1,0 +1,1 @@
+export const uri = `mongodb+srv://dganech:6NwoQhtIwteIikHz@cluster0.9mjhjya.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0`
